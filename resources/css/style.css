@@ -1,13 +1,13 @@
 body {
   background-color: black;
   text-align: center;
+  font-family Verdana;
+  color: white;
 }
 
 h1 {
-  font-family: normal;
-  font-weight: bold;
+  font-weight: normal;
   font-size: 50px;
-  color: White;
 }
 
 #download {
@@ -17,4 +17,19 @@ h1 {
 
 a {
   color: white;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+p {
+  color: gray;
+  font-size: 21px;
+}
+
+#copyright {
+  text-align: right;
+  color: gray;
 }
