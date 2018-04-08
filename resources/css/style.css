@@ -1,0 +1,20 @@
+body {
+  background-color: black;
+  text-align: center;
+}
+
+h1 {
+  font-family: normal;
+  font-weight: bold;
+  font-size: 50px;
+  color: White;
+}
+
+#download {
+  color: AquaMarine;
+  font-size: 16px;
+}
+
+a {
+  color: white;
+}
